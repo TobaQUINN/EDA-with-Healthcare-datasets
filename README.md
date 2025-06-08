@@ -84,3 +84,5 @@ The dataset includes the following features:
    git clone https://github.com/TobaQUINN/EDA-with-Healthcare-datasets.git
    cd EDA-with-Healthcare-datasets
 
+To Review demonstration in Jupyter Notebook, click on the followin link
+http://localhost:8888/lab/tree/TobaQUINN/EDA%20with%20Healthcare%20datasets
