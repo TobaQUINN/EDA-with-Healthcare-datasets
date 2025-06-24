@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os as os
 
-df= pd.read_csv(r'C:\Users\DARA2\Documents\Healthcare Datasets.txt')
+df= pd.read_csv(r'C:\Users\DARA2\Documents\Cleaned_Healthcare_Datasets.txt')
 # Creating directory for saving plots
 os.makedirs('plots', exist_ok=True)
 #setting style of seaborn
