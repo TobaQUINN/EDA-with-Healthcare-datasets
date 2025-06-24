@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-df= pd.read_csv(r'C:\Users\DARA2\Documents\Healthcare Datasets.txt')
+df= pd.read_csv(r'C:\Users\DARA2\Documents\Cleaned_Healthcare_Datasets.csv')
 
 # Select numeric features
 numeric_df = df.select_dtypes(include='number')
